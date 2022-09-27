@@ -44,3 +44,18 @@
     height: 100%;
     object-fit: cover;
   }
+
+  .swiper-button-next {
+    color:#eee
+}
+
+.swiper-button-prev {
+    color:#eee
+}
+
+.swiper-pagination-progressbar {
+    background: #00000060
+}
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+    background: #ffffff
+}
