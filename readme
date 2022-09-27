@@ -1,0 +1,70 @@
+Benötigte Dateien:
+Keine genötigt
+Lokales Verzeichnis möglich
+https://www.jsdelivr.com/package/npm/swiper
+
+Funktionen:
+Alle Funktionen mit dedizierten Demos.
+https://swiperjs.com/demos
+Default
+Navigation
+Pagination
+Pagination dynamic
+Pagination progress
+Pagination fraction
+Pagination custom
+Scrollbar
+Vertical
+Space between
+Slides per view
+Slides per view auto
+Centered
+Centered auto
+Css mode
+Freemode
+Scroll container
+Grid
+Slides per column
+Nested
+Grab cursor
+Infinite loop
+Infinite loop with slides per group
+Slides per group skip
+Effect fade
+Effect cube
+Effect coverflow
+Effect flip
+Effect cards
+Effect creative
+Keyboard control
+Mousewheel control
+Autoplay
+Dynamic slides
+Manipulation
+Thumbs gallery
+Thumbs gallery loop
+Multiple swipers
+Hash navigation
+History
+Rtl
+Parallax
+Lazy load images
+Responsive breakpoints
+Ratio breakpoints
+Autoheight
+Zoom
+Virtual slides
+Custom plugin
+Slideable menu
+Change direction
+Watch slides visibility
+
+Vorteile:
+Kompatibel mit vielen Frameworks
+Lokales Verzeichnis ist möglich
+Gute Dokumentation
+Viele Funktionen
+
+Nachteile
+Zuviele Funktionen
+Viele Anlaufmöglichkeiten
